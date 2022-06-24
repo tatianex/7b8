@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">7b8</string>
+    <string name="company_name">7b8</string>
+    <string name="company_email">Email: atendimento.7b8@outlook.com</string>
+    <string name="company_office_hour">Segunda a sexta em horário comercial</string>
+    <string name="company_address">Guaramirim - SC</string>
+    <string name="company_website">Site: www.7b8.software.com</string>
+    <string name="connected_earth_description">A photo of the globe with some code numbers drawned on it to represent a connected world</string>
+    <string name="company_description">Developing software for your business</string>
+</resources>
